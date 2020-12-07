@@ -22,8 +22,8 @@ HexDump Using Python
 
 ## The OUTPUT of the PROGRAM
 
-![Screenshot](./Output.jpg)
+![Screenshot](./Output.JPG)
 
 ## The OUTPUT of the Exceptions
 
-![Screenshot](./Exception.jpg)
+![Screenshot](./Exception.JPG)
