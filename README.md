@@ -2,6 +2,7 @@
 HexDump Using Python
 
 # HOW TO RUN?
+    Folder has inbuild image and a text file to test the program
 -----------------------------------
 #       W I N D O W S
 -----------------------------------
