@@ -8,16 +8,16 @@ HexDump Using Python
 - open command prompt
 - navigate to  file path
 - type the following command
->python hex_dump.py "filename"
->python hex_dump.py "imagename"
+>python hex_dump.py "filename" <br/>
+>python hex_dump.py "imagename" <br/>
 -----------------------------------
 #         L I N U X
 -----------------------------------
 - open terminal
 - navigate to file path
 - type the following command
->python3 hex_dump.py "filename"
->python3 hex_dump.py "imagename"
+>python3 hex_dump.py "filename" <br/>
+>python3 hex_dump.py "imagename" <br/>
 
 
 ## The OUTPUT of the PROGRAM
