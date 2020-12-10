@@ -2,3 +2,6 @@ Why We Need Hexdump?
 
 Hexdump is a utility that displays the contents of binary files in hexadecimal, decimal, octal, or ASCII. 
 It's a utility for inspection and can be used for data recovery, reverse engineering, and programming.
+
+
+A hexdump is useful for security analysts, malware analysts, compiler developers, and anyone who will need to carefully analyze machine code. Machine code is generally the hexadecimal representation of a machine’s bytecode. (Literally a streams of 1s and 0s grouped into 8 bit words).
