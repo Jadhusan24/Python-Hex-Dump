@@ -1,10 +1,10 @@
 # Altering-File-To-Hex
 HexDump Using Python! 
 
-# HOW TO RUN?
+### HOW TO RUN?
     I have tested this program using imagefile(hex.PNG) and a textfile(test.txt).
 -----------------------------------
-#       W I N D O W S
+###       W I N D O W S
 -----------------------------------
 - open command prompt
 - navigate to  file path
@@ -12,7 +12,7 @@ HexDump Using Python!
 >python hex_dump.py "filename" <br/>
 >python hex_dump.py "imagename" <br/>
 -----------------------------------
-#         L I N U X
+###         L I N U X
 -----------------------------------
 - open terminal
 - navigate to file path
@@ -20,11 +20,10 @@ HexDump Using Python!
 >python3 hex_dump.py "filename" <br/>
 >python3 hex_dump.py "imagename" <br/>
 
-
-## The OUTPUT of the PROGRAM
+### The OUTPUT of the PROGRAM
 
 ![Screenshot](./Output.JPG)
 
-## The OUTPUT of the Exceptions
+### The OUTPUT of the Exceptions
 
 ![Screenshot](./Exceptions.JPG)
