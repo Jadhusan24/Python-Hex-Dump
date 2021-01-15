@@ -1,4 +1,5 @@
 #!/usr/bin/python
+
 import sys
 
 def open_as_binary(filename, n_bytes=16):
