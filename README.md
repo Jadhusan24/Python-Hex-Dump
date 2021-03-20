@@ -21,11 +21,11 @@ HexDump Using Python!
 >python3 hex_dump.py "filename" <br/>
 >python3 hex_dump.py "imagename" <br/>
 
-### The OUTPUT of the PROGRAM
+#### RESULT
 
 ![Screenshot](./Packages/Output.JPG)
 
-### The OUTPUT of the Exceptions
+#### Exceptions
 
 ![Screenshot](./Packages/Exceptions.JPG)
    
