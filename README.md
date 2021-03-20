@@ -23,10 +23,10 @@ HexDump Using Python!
 
 ### The OUTPUT of the PROGRAM
 
-![Screenshot](./Output.JPG)
+![Screenshot](./Packages/Output.JPG)
 
 ### The OUTPUT of the Exceptions
 
-![Screenshot](./Exceptions.JPG)
+![Screenshot](./Packages/Exceptions.JPG)
    
 
