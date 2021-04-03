@@ -4,6 +4,9 @@ HexDump Using Python!
 
 ### HOW TO RUN?
     I have tested this program using imagefile(hex.PNG) and a textfile(test.txt).
+
+[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
+
 -----------------------------------
 ###       W I N D O W S
 -----------------------------------
