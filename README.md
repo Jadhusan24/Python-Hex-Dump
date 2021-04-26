@@ -1,9 +1,12 @@
 # Altering-File-To-Hex
-HexDump Using Python! 
+    HexDump Using Python! 
 
+### xxd in linux?
+    The xxd command in Linux lets you create a hexdump or even do the reverse
 
-### HOW TO RUN?
+### _Usage_
     I have tested this program using imagefile(hex.PNG) and a textfile(test.txt).
+    With WSL 2 Kali Linux on my Windows Machine.
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jadhusan24/)
 
@@ -31,5 +34,3 @@ HexDump Using Python!
 #### Exceptions
 
 ![Screenshot](./Packages/Exceptions.JPG)
-   
-####
