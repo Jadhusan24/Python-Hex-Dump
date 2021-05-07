@@ -1,5 +1,7 @@
 # Altering-File-To-Hex
-   HexDump Using Python!
+
+   HexDump Using Python! </br>
+   A hex dump is a hexadecimal view of computer data, from RAM or from a computer file or storage device. Looking at a hex dump of data is usually done in the context of either debugging or reverse engineering. In a hex dump, each byte is represented as a two-digit hexadecimal number.
    
 **xxd in linux?**
 
