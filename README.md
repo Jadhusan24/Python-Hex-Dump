@@ -6,7 +6,9 @@
    The xxd command in Linux lets you create a hexdump or even do the reverse
 
 ## Usage
+   
    I have tested this program using imagefile(hex.PNG) and a textfile(test.txt). With WSL 2 Kali Linux on my Windows Machine.
+
 -----------------------------------
 ####       W I N D O W S
 -----------------------------------
